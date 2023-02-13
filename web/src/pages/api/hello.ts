@@ -5,6 +5,8 @@ type Data = {
   name: string
 }
 
+// test
+
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
